@@ -36,7 +36,7 @@ ssh -i instance.pem ubunutu@<IP_ADDRESS>
 ```
 
 ### Configuring Ubuntu on remote VM
-
+documentation : initial server setup on ubuntu 20.04 - [DigitalOcean]([url](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu)) 
 1. Updating the outdated packages and dependencies
 ```
 sudo apt update
