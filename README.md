@@ -2,6 +2,8 @@
 
 ### Testing the project locally
 
+![MY AWS Home](https://github.com/Offori/AWS-Session/blob/main/aws1.PNG?raw=true)
+
 1. Clone this project
 ```
 git clone https://github.com/verma-kunal/AWS-Session.git
